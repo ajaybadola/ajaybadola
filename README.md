@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaybadola
 - 👀 I’m interested in frontend developement 
-- 🌱 I’m currently learning python and js
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any frontend dev 
 - 📫 How to reach me: my mail: ajaybadola2004@gmail.com
 - 😄 Pronouns: ...he/his
