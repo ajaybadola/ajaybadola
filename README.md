@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @ajaybadola
-- 👀 I’m interested in frontend developement 
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on any frontend dev 
-- 📫 How to reach me: my mail: ajaybadola2004@gmail.com
-- 😄 Pronouns: ...he/his
-- ⚡ Fun fact: i like pigs more than cats
-- 
+Cloud & Data Operations Engineer | Aspiring DevOps Enthusiast.
 
-<!---
-ajaybadola/ajaybadola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about automating infrastructure and bridging the gap between data insights and cloud scalability. Currently focused on building robust CI/CD pipelines, Dockerizing applications, and managing AWS cloud resources.
+
+🛠️ Tech Stack: AWS (ECR, IAM, S3), Docker, GitHub Actions, Linux, Python, and SQL.
+📈 Goal: Delivering 100% automated deployment lifecycles and optimized data frameworks."
